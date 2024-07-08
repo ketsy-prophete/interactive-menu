@@ -1,0 +1,6 @@
+<h1>Menu</h1>
+<ul>
+    <li [routerLink]='["/products", product.id]' *ngFor="let product of productList">
+        <a>{{product.productName}}<br>{{product.price}}</a>
+    </li>
+</ul>

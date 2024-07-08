@@ -1,9 +1,18 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+label {
+    display:block;
+}
+div{
+    margin-bottom: 20px;
+}
 .button {
     text-align: center;
     font-size: medium;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border: 2px solid blue;
-    width: 50px;
+    width: 70px;
     margin: 10px;
     padding: 2px;
     border-radius: 5px;

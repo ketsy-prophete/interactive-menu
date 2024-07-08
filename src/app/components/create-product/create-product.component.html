@@ -1,0 +1,19 @@
+<h1>Create New Menu Item</h1>
+<form #form="ngForm" (ngSubmit)="onSubmit()">
+    <div>
+        <label>Name</label>
+        <input type="text" name="name" [(ngModel)]="newProduct.productName">
+    </div>
+
+    <div>
+        <label>Description</label>
+        <textarea rows="5" cols="45" type="text" name="description" [(ngModel)]="newProduct.description"></textarea>
+    </div>
+
+    <div>
+        <label>Price</label>
+        <input type="text" name="price" [(ngModel)]="newProduct.price">
+    </div>
+
+    <button class="button" type="submit">Create!</button>
+</form>

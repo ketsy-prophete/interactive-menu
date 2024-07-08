@@ -1,0 +1,31 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    font-size: large;
+}
+
+.button {
+    text-align: center;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 2px solid blue;
+    width: 50px;
+    margin: 10px;
+    padding: 2px;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+
+.del-button {
+    text-align: center;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 2px solid blue;
+    width: 60px;
+    margin: 10px;
+    padding: 2px;
+    border-radius: 5px;
+    background-color: aquamarine;
+}

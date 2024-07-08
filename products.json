@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Black Coffee",
+      "description": "Bottomlesss House Roasted Coffee with sugar",
+      "price": "1.75"
+    },
+    {
+      "id": 3,
+      "productName": "Chocolate Milkshake",
+      "description": "Dark chocolate whipped with locally sourced milk and sweetened with sugar",
+      "price": 2.5
+    },
+    {
+      "id": 4,
+      "productName": "Pecan Pie",
+      "description": "A slice of our exquisite Pecan Pie",
+      "price": 2.5
+    },
+    {
+      "id": 5,
+      "productName": "Apple Pie",
+      "description": "Flaky golden crust with a decadent apple pie filling",
+      "price": "3"
+    },
+    {
+      "id": 8,
+      "productName": "French Fries",
+      "description": "Light, golden brown crispy fries",
+      "price": "4.25"
+    },
+    {
+      "id": 10,
+      "productName": "Chocolate Puddin'",
+      "description": "Bittersweet chocolate pudding with freshly whipped cream",
+      "price": "2.5"
+    },
+    {
+      "id": 11,
+      "productName": "Buttered Toast",
+      "description": "Toasted to perfection with a pat of butter",
+      "price": "1.5"
+    }
+  ]
+}

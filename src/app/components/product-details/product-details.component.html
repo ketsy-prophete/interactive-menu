@@ -1,0 +1,5 @@
+<h1>{{currentProduct.productName}}</h1>
+<p>{{currentProduct.description}}, ${{currentProduct.price}}</p>
+
+<button class="button" [routerLink]='["/edit", currentProduct.id]'>Edit</button>
+<button class="del-button" (click)="onDelete(currentProduct.id)" [routerLink]='["/products"]'>Delete</button>

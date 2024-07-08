@@ -1,3 +1,12 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+label {
+    display:block;
+}
+div{
+    margin-bottom: 20px;
+}
 .button {
     text-align: center;
     font-size: medium;
